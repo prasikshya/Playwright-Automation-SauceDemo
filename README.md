@@ -37,7 +37,7 @@ The project contains **17 functional test cases** covering:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/prasikshya/SauceDemo-Playwright-Automation.git
+git clone  https://github.com/prasikshya/Playwright-Automation-SauceDemo.git
 cd SauceDemo-Playwright-Automation
 npm install
 npx playwright install chromium
