@@ -1,0 +1,19 @@
+SAUCEDEMO - TEST CASES
+
+TC01 - Login with valid credentials
+TC02 - Login with invalid credentials
+TC03 - Login with empty credentials
+TC04 - Verify product listing
+TC05 - Sort products by price
+TC06 - Sort products by name
+TC07 - Add single product to cart
+TC08 - Add multiple products to cart
+TC09 - Remove product from cart
+TC10 - Verify cart item details
+TC11 - Continue shopping
+TC12 - Checkout with valid information
+TC13 - Checkout with missing required fields
+TC14 - Verify checkout total and tax
+TC15 - Verify order confirmation
+TC16 - Cancel checkout
+TC17 - Logout successfully

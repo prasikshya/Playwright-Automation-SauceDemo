@@ -1,0 +1,18 @@
+{
+  "checkoutButton": "[data-test='checkout']",
+  "firstName": "[data-test='firstName']",
+  "lastName": "[data-test='lastName']",
+  "postalCode": "[data-test='postalCode']",
+  "continueButton": "[data-test='continue']",
+  "finishButton": "[data-test='finish']",
+  "confirmationMessage": "[data-test='complete-header']",
+  "errorMessage": "[data-test='error']",
+  "itemPrices": "[data-test='inventory-item-price']",
+"subtotal": "[data-test='subtotal-label']",
+"tax": "[data-test='tax-label']",
+"total": "[data-test='total-label']",
+"confirmationTitle": "[data-test='complete-header']",
+"confirmationDescription": "[data-test='complete-text']",
+"backHomeButton": "[data-test='back-to-products']",
+"cancelButton": "[data-test='cancel']"
+}

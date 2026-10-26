@@ -1,0 +1,12 @@
+{
+  "cartLink": "[data-test='shopping-cart-link']",
+  "cartItems": "[data-test='inventory-item']",
+  "productNames": "[data-test='inventory-item-name']",
+  "itemQuantity": "[data-test='item-quantity']",
+  "removeBackpack": "[data-test='remove-sauce-labs-backpack']",
+"cartBadge": "[data-test='shopping-cart-badge']",
+"productDescription": "[data-test='inventory-item-desc']",
+"productPrice": "[data-test='inventory-item-price']",
+"continueShopping": "[data-test='continue-shopping']"
+
+}

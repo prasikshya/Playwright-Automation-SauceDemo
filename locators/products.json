@@ -1,0 +1,13 @@
+{
+  "inventoryItems": "[data-test='inventory-item']",
+  "productNames": "[data-test='inventory-item-name']",
+  "productPrices": "[data-test='inventory-item-price']",
+  "addToCartButtons": "button[data-test^='add-to-cart']",
+  "pageTitle": "[data-test='title']",
+  "sortDropdown": "[data-test='product-sort-container']",
+  "addBackpack": "[data-test='add-to-cart-sauce-labs-backpack']",
+  "removeBackpack": "[data-test='remove-sauce-labs-backpack']",
+  "cartBadge": "[data-test='shopping-cart-badge']",
+  "cartLink": "[data-test='shopping-cart-link']",
+  "addBikeLight": "[data-test='add-to-cart-sauce-labs-bike-light']"
+}

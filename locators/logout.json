@@ -1,0 +1,5 @@
+{
+  "menuButton": "#react-burger-menu-btn",
+  "logoutLink": "[data-test='logout-sidebar-link']",
+  "loginButton": "[data-test='login-button']"
+}
