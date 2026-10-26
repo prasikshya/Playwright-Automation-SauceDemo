@@ -2,6 +2,7 @@
 
 [![Playwright Automation Tests](https://github.com/prasikshya/Playwright-Automation-SauceDemo/actions/workflows/playwright.yml/badge.svg)](https://github.com/prasikshya/Playwright-Automation-SauceDemo/actions/workflows/playwright.yml)
 
+
 A functional and end-to-end test automation project built using **Playwright and JavaScript** to validate critical e-commerce workflows on the SauceDemo demo application.
 
 ## Tech Stack
