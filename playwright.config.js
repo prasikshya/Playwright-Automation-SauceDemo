@@ -6,11 +6,11 @@ module.exports = defineConfig({
   use: {
     baseURL: 'https://www.saucedemo.com',
     browserName: 'chromium',
-    headless: false,
+    headless: !!process.env.CI,
     screenshot: 'only-on-failure',
     trace: 'off',
      launchOptions: {
-      slowMo: 700, // Delay each Playwright browser operation by 700ms
+      slowMo:  process.env.DEMO_MODE === 'true' ? 700 : 0, 
     },
   },
   reporter: 'list',
